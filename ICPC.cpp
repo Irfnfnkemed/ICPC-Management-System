@@ -2,7 +2,6 @@
 // Created by irfnfnkemed on 2022/11/10.
 //
 
-#include "ICPC.h"
 #include <iostream>
 #include <string>
 #include <unordered_map>
